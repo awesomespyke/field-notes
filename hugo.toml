@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'AwesomeSpyke: Field Notes'
+theme= 'hugo-theme-stack'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
