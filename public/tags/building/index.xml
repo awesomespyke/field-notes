@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Building on Spyke.space: Field Notes</title>
+        <link>http://localhost:1313/tags/building/</link>
+        <description>Recent content in Building on Spyke.space: Field Notes</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 02 Jun 2026 21:37:38 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/building/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Terminal Ritual</title>
+            <link>http://localhost:1313/post/terminal-ritual/</link>
+            <pubDate>Tue, 02 Jun 2026 21:37:38 -0500</pubDate>
+            <guid>http://localhost:1313/post/terminal-ritual/</guid>
+            <description>&lt;p&gt;Small remote magic tonight. Is this digital scrying? Anyway here&amp;rsquo;s a photo of the sun from my window.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;Notebook Terminal&#34; loading=&#34;lazy&#34; sizes=&#34;(max-width: 767px) calc(100vw - 30px), (max-width: 1023px) 700px, (max-width: 1279px) 950px, 1232px&#34; src=&#34;http://localhost:1313/img/terminal.jpeg&#34;&gt;&lt;/p&gt;&#xA;</description>
+        </item></channel>
+</rss>

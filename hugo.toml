@@ -1,8 +1,18 @@
 baseURL = 'https://example.org/'
 locale = 'en-us'
-title = 'AwesomeSpyke: Field Notes'
+title = 'Spyke.space: Field Notes'
 theme= 'hugo-theme-stack'
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[[menu.main]]
+name = "About"
+url = "/page/about/"
+weight = 20
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 40

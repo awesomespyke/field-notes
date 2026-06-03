@@ -2,6 +2,15 @@
 date = '2026-05-29T19:26:31-05:00'
 draft = false
 title = 'First Sighting'
+
+tags = [
+"artifact: conversation",
+"domain: home", "domain: lighting",
+"mode: observing", "mode: dreaming",
+"atmosphere: presence",
+"context: weekend",
+]
+
 +++
 
 
