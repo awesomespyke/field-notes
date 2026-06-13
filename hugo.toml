@@ -13,9 +13,9 @@ url = "/page/about/"
 weight = 20
 
 [[menu.main]]
-name = "Tags"
-url = "/tags/"
-weight = 40
+name = "Library"
+url = "/page/library/"
+weight = 30
 
 [params.sidebar]
 emoji = "💎"
