@@ -27,5 +27,5 @@ Things that have passed through my attention.
 
 ## Recently Noticed
 
-- If I update my markup, i need to remember to push those changes to github. Or else I'm seeing a local version and an expiring live version. So editing is different than publishing
+- Will-o-the-wisp adventures often end up right where you started, only a little more aware of the landscape...if you turn back in time.
 - Learning best is learning slowly.
