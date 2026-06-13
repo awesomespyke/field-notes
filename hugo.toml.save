@@ -1,6 +1,6 @@
 baseURL = 'https://spyke.space/'
 locale = 'en-us'
-title = 'Field Notes'
+title = 'Spyke.space: Field Notes'
 theme= 'hugo-theme-stack'
 [markup]
   [markup.goldmark]
@@ -20,12 +20,8 @@ weight = 40
 [params.sidebar]
 emoji = "💎"
 subtitle = "Notes, observations, and traces."
-avatar = "img/avatar.png"
 
-[params.widgets]
-homepage = [
-    { type = "archives", params = { limit = 12 } },
-    { type = "tag-cloud", params = { limit = 25 } },
-]
-
-page = [{ type = "toc" }]
+[params.sidebar.avatar]
+enabled = true
+local = true
+src = "img/avatar.png"
