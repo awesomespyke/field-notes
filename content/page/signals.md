@@ -1,5 +1,5 @@
 ---
-title: "Signals"
+title: "Signals & Traces"
 date: 2026-06-13
 slug: "signals"
 menu:
@@ -7,19 +7,23 @@ menu:
     weight: 20
 ---
 
-Things that have passed through my attention lately.
+Things that have passed through my attention.
 
 ## Recently Heard
 
-- A Summer's Heat Pt. 1
+- Ariana Grande
+
+- Charlie XCX
 
 ## Recently Read
 
--
+- The Wicked + The Divine
 
 ## Recently Watched
 
--
+- Masters of the Universe
+- Tales from the Crypt
+- House Party 1-3
 
 ## Recently Noticed
 
