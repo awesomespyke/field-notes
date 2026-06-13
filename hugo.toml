@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://spyke.space/'
 locale = 'en-us'
 title = 'Spyke.space: Field Notes'
 theme= 'hugo-theme-stack'
