@@ -21,3 +21,11 @@ weight = 40
 emoji = "💎"
 subtitle = "Notes, observations, and traces."
 avatar = "img/avatar.png"
+
+[params.widgets]
+homepage = [
+    { type = "archives", params = { limit = 12 } },
+    { type = "tag-cloud", params = { limit = 25 } },
+]
+
+page = [{ type = "toc" }]
