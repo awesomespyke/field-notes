@@ -11,9 +11,9 @@ Things that have passed through my attention.
 
 ## Recently Heard
 
-- Ariana Grande
+- No Doubt
 
-- Charlie XCX
+- Deadmou5
 
 ## Recently Read
 
@@ -27,4 +27,5 @@ Things that have passed through my attention.
 
 ## Recently Noticed
 
-- Exploring ways to leave passive traces of listening on this site
+- If I update my markup, i need to remember to push those changes to github. Or else I'm seeing a local version and an expiring live version. So editing is different than publishing
+- Learning best is learning slowly.
