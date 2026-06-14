@@ -7,20 +7,15 @@ menu:
     weight: 30
 ---
 
-The Crystal Archive
-
-You stand before a pair of immense crystal doors.
-
-Beyond them lies the Vault of Grayskull.
-
-Through the translucent walls you glimpse shelves stretching
-far into the distance. Books, comics, field guides, manuals,
-and recovered artifacts shimmer beneath the light of a great
-crystal suspended overhead.
-
-A plaque beside the entrance reads:
-
-    ALL ARE WELCOME HERE (But message me for a password)
-
-Exits:
-    [Enter the library](https://library.spyke.space)
+> The immense crystal doors of the vault of Grayskull stand before you.
+> 
+> Beyond them you glimpse endless shelves illuminated by refracted light.
+> 
+> Books, comics, manuals, field guides, maps, and other accumulated
+> artifacts rest within the archive.
+>
+> Visitors will need a library card to enter the archive.
+>
+> If you'd like one, simply contact the librarian.
+>
+>   [Enter the library](https://library.spyke.space)
