@@ -15,7 +15,7 @@ weight = 20
 [params.sidebar]
 emoji = "💎"
 subtitle = "Field notes, observations, and traces."
-avatar = "img/avatar.png"
+avatar = "/img/avatar.png"
 
 [params.widgets]
 homepage = [
