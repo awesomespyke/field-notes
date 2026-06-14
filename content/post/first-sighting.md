@@ -4,11 +4,9 @@ draft = false
 title = 'First Sighting'
 
 tags = [
-"artifact: conversation",
-"domain: home", "domain: lighting",
-"mode: observing", "mode: dreaming",
-"atmosphere: presence",
-"context: weekend",
+"Home",
+"Light", 
+"Hag stone"  
 ]
 
 +++

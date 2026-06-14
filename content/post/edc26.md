@@ -4,8 +4,9 @@ draft = false
 title = 'See_You_At_Sunrise'
 
 tags = [
-"artifact: travel log",
-"domain: travel"
+"Las Vegas",
+"Electric Daisy Carnival",
+"Travel-log",     
 ]
 
 +++

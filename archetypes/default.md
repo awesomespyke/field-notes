@@ -4,11 +4,11 @@ draft = true
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 
 tags = [
-"artifact:",
-"domain:",
-"mode:",
-"atmosphere:",
-"context:"
+"artifact",
+"medium",
+"subject",
+"place",
+"local"
 ]
 
 +++

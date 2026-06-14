@@ -4,11 +4,11 @@ draft = false
 title = 'Terminal Ritual'
 
 tags = [
-"artifact: image",
-"domain: MacBook",
-"mode: building",
-"atmosphere: focused",
-"context:"
+"Home",
+"Technology",
+"Project-log",
+"Field note",    
+"Hag stone"  
 ]
 
 +++
