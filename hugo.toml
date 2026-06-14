@@ -12,11 +12,6 @@ name = "About"
 url = "/page/about/"
 weight = 20
 
-[[menu.main]]
-name = "Library"
-url = "/page/library/"
-weight = 30
-
 [params.sidebar]
 emoji = "💎"
 subtitle = "Field notes, observations, and traces."
