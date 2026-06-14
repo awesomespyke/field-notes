@@ -1,21 +1,18 @@
 ---
 title: "Library"
-date: 2026-06-13
 slug: "library"
 menu:
   main:
     weight: 30
 ---
 
-> The immense crystal doors of the vault of Grayskull stand before you.
+> You have arrived at the library.
 > 
-> Beyond them you glimpse endless shelves illuminated by refracted light.
-> 
-> Books, comics, manuals, field guides, maps, and other accumulated
-> artifacts rest within the archive.
+> Books, comics, field guides, manuals, maps, and other accumulated
+> artifacts live here.
 >
-> Visitors will need a library card to enter the archive.
+> The librarian can usually be found at the front desk, if they're not off wandering the stacks.
 >
-> If you'd like one, simply contact the librarian.
->
->   [Enter the library](https://library.spyke.space)
+> Visitors will need a library card to browse the collection. If you'd like one, simply ask an account can be created for you.
+
+[Enter the library](https://library.spyke.space)

@@ -3,11 +3,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/electric-daisy-carnival/</loc>
+    <lastmod>2026-06-13T23:48:51-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/library/</loc>
-    <lastmod>2026-06-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-13T23:48:51-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/las-vegas/</loc>
+    <lastmod>2026-06-13T23:48:51-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2026-06-13T23:48:51-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/edc26/</loc>
+    <lastmod>2026-06-13T23:48:51-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-06-13T23:48:51-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/travel-log/</loc>
+    <lastmod>2026-06-13T23:48:51-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
@@ -15,62 +30,44 @@
     <loc>http://localhost:1313/page/signals/</loc>
     <lastmod>2026-06-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/about/</loc>
-    <lastmod>2026-06-02T22:06:01-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/artifact-image/</loc>
+    <loc>http://localhost:1313/tags/field-note/</loc>
     <lastmod>2026-06-02T21:37:38-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/atmosphere-focused/</loc>
+    <loc>http://localhost:1313/tags/hag-stone/</loc>
     <lastmod>2026-06-02T21:37:38-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/context/</loc>
+    <loc>http://localhost:1313/tags/home/</loc>
     <lastmod>2026-06-02T21:37:38-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/domain-macbook/</loc>
+    <loc>http://localhost:1313/tags/project-log/</loc>
     <lastmod>2026-06-02T21:37:38-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mode-building/</loc>
-    <lastmod>2026-06-02T21:37:38-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/post/</loc>
-    <lastmod>2026-06-02T21:37:38-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/tags/technology/</loc>
     <lastmod>2026-06-02T21:37:38-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/terminal-ritual/</loc>
     <lastmod>2026-06-02T21:37:38-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/sunday-morning/</loc>
+    <loc>http://localhost:1313/tags/sound-note/</loc>
     <lastmod>2026-05-31T08:16:10-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/artifact-conversation/</loc>
-    <lastmod>2026-05-29T19:26:31-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/atmosphere-presence/</loc>
-    <lastmod>2026-05-29T19:26:31-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/context-weekend/</loc>
-    <lastmod>2026-05-29T19:26:31-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/domain-home/</loc>
-    <lastmod>2026-05-29T19:26:31-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/domain-lighting/</loc>
-    <lastmod>2026-05-29T19:26:31-05:00</lastmod>
+    <loc>http://localhost:1313/post/sunday-morning/</loc>
+    <lastmod>2026-05-31T08:16:10-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/first-sighting/</loc>
     <lastmod>2026-05-29T19:26:31-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mode-dreaming/</loc>
+    <loc>http://localhost:1313/tags/light/</loc>
     <lastmod>2026-05-29T19:26:31-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mode-observing/</loc>
-    <lastmod>2026-05-29T19:26:31-05:00</lastmod>
+    <loc>http://localhost:1313/page/about/</loc>
   </url><url>
     <loc>http://localhost:1313/page/archives/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/page/guestbook/</loc>
+  </url><url>
+    <loc>http://localhost:1313/page/library/</loc>
   </url>
 </urlset>

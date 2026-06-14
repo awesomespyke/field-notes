@@ -24,3 +24,21 @@ homepage = [
 ]
 
 page = [{ type = "toc" }]
+
+[params.comments]
+enabled = false
+provider = "giscus"
+
+[params.comments.giscus]
+repo = "awesomespyke/field-notes"
+repoID = "R_kgDOSuaJxA"
+category = "General"
+categoryID = "DIC_kwDOSuaJxM4C_KSA"
+
+mapping = "pathname"
+strict = "0"
+reactionsEnabled = "0"
+emitMetadata = "0"
+inputPosition = "top"
+theme = "preferred_color_scheme"
+lang = "en"

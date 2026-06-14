@@ -1,93 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Field Notes</title>
-        <link>http://localhost:63348/tags/</link>
+        <link>http://localhost:1313/tags/</link>
         <description>Recent content in Tags on Field Notes</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 13 Jun 2026 23:48:51 -0500</lastBuildDate><atom:link href="http://localhost:63348/tags/index.xml" rel="self" type="application/rss+xml" /><item>
-            <title>Artifact: Travel Log</title>
-            <link>http://localhost:63348/tags/artifact-travel-log/</link>
+        <lastBuildDate>Sat, 13 Jun 2026 23:48:51 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Electric Daisy Carnival</title>
+            <link>http://localhost:1313/tags/electric-daisy-carnival/</link>
             <pubDate>Sat, 13 Jun 2026 23:48:51 -0500</pubDate>
-            <guid>http://localhost:63348/tags/artifact-travel-log/</guid>
+            <guid>http://localhost:1313/tags/electric-daisy-carnival/</guid>
             <description></description>
         </item><item>
-            <title>Domain: Travel</title>
-            <link>http://localhost:63348/tags/domain-travel/</link>
+            <title>Las Vegas</title>
+            <link>http://localhost:1313/tags/las-vegas/</link>
             <pubDate>Sat, 13 Jun 2026 23:48:51 -0500</pubDate>
-            <guid>http://localhost:63348/tags/domain-travel/</guid>
+            <guid>http://localhost:1313/tags/las-vegas/</guid>
             <description></description>
         </item><item>
-            <title>Artifact: Image</title>
-            <link>http://localhost:63348/tags/artifact-image/</link>
+            <title>Travel-Log</title>
+            <link>http://localhost:1313/tags/travel-log/</link>
+            <pubDate>Sat, 13 Jun 2026 23:48:51 -0500</pubDate>
+            <guid>http://localhost:1313/tags/travel-log/</guid>
+            <description></description>
+        </item><item>
+            <title>Field Note</title>
+            <link>http://localhost:1313/tags/field-note/</link>
             <pubDate>Tue, 02 Jun 2026 21:37:38 -0500</pubDate>
-            <guid>http://localhost:63348/tags/artifact-image/</guid>
+            <guid>http://localhost:1313/tags/field-note/</guid>
             <description></description>
         </item><item>
-            <title>Atmosphere: Focused</title>
-            <link>http://localhost:63348/tags/atmosphere-focused/</link>
+            <title>Hag Stone</title>
+            <link>http://localhost:1313/tags/hag-stone/</link>
             <pubDate>Tue, 02 Jun 2026 21:37:38 -0500</pubDate>
-            <guid>http://localhost:63348/tags/atmosphere-focused/</guid>
+            <guid>http://localhost:1313/tags/hag-stone/</guid>
             <description></description>
         </item><item>
-            <title>Context:</title>
-            <link>http://localhost:63348/tags/context/</link>
+            <title>Home</title>
+            <link>http://localhost:1313/tags/home/</link>
             <pubDate>Tue, 02 Jun 2026 21:37:38 -0500</pubDate>
-            <guid>http://localhost:63348/tags/context/</guid>
+            <guid>http://localhost:1313/tags/home/</guid>
             <description></description>
         </item><item>
-            <title>Domain: MacBook</title>
-            <link>http://localhost:63348/tags/domain-macbook/</link>
+            <title>Project-Log</title>
+            <link>http://localhost:1313/tags/project-log/</link>
             <pubDate>Tue, 02 Jun 2026 21:37:38 -0500</pubDate>
-            <guid>http://localhost:63348/tags/domain-macbook/</guid>
+            <guid>http://localhost:1313/tags/project-log/</guid>
             <description></description>
         </item><item>
-            <title>Mode: Building</title>
-            <link>http://localhost:63348/tags/mode-building/</link>
+            <title>Technology</title>
+            <link>http://localhost:1313/tags/technology/</link>
             <pubDate>Tue, 02 Jun 2026 21:37:38 -0500</pubDate>
-            <guid>http://localhost:63348/tags/mode-building/</guid>
+            <guid>http://localhost:1313/tags/technology/</guid>
             <description></description>
         </item><item>
-            <title>Artifact: Conversation</title>
-            <link>http://localhost:63348/tags/artifact-conversation/</link>
-            <pubDate>Fri, 29 May 2026 19:26:31 -0500</pubDate>
-            <guid>http://localhost:63348/tags/artifact-conversation/</guid>
+            <title>Sound-Note</title>
+            <link>http://localhost:1313/tags/sound-note/</link>
+            <pubDate>Sun, 31 May 2026 08:16:10 -0500</pubDate>
+            <guid>http://localhost:1313/tags/sound-note/</guid>
             <description></description>
         </item><item>
-            <title>Atmosphere: Presence</title>
-            <link>http://localhost:63348/tags/atmosphere-presence/</link>
+            <title>Light</title>
+            <link>http://localhost:1313/tags/light/</link>
             <pubDate>Fri, 29 May 2026 19:26:31 -0500</pubDate>
-            <guid>http://localhost:63348/tags/atmosphere-presence/</guid>
-            <description></description>
-        </item><item>
-            <title>Context: Weekend</title>
-            <link>http://localhost:63348/tags/context-weekend/</link>
-            <pubDate>Fri, 29 May 2026 19:26:31 -0500</pubDate>
-            <guid>http://localhost:63348/tags/context-weekend/</guid>
-            <description></description>
-        </item><item>
-            <title>Domain: Home</title>
-            <link>http://localhost:63348/tags/domain-home/</link>
-            <pubDate>Fri, 29 May 2026 19:26:31 -0500</pubDate>
-            <guid>http://localhost:63348/tags/domain-home/</guid>
-            <description></description>
-        </item><item>
-            <title>Domain: Lighting</title>
-            <link>http://localhost:63348/tags/domain-lighting/</link>
-            <pubDate>Fri, 29 May 2026 19:26:31 -0500</pubDate>
-            <guid>http://localhost:63348/tags/domain-lighting/</guid>
-            <description></description>
-        </item><item>
-            <title>Mode: Dreaming</title>
-            <link>http://localhost:63348/tags/mode-dreaming/</link>
-            <pubDate>Fri, 29 May 2026 19:26:31 -0500</pubDate>
-            <guid>http://localhost:63348/tags/mode-dreaming/</guid>
-            <description></description>
-        </item><item>
-            <title>Mode: Observing</title>
-            <link>http://localhost:63348/tags/mode-observing/</link>
-            <pubDate>Fri, 29 May 2026 19:26:31 -0500</pubDate>
-            <guid>http://localhost:63348/tags/mode-observing/</guid>
+            <guid>http://localhost:1313/tags/light/</guid>
             <description></description>
         </item></channel>
 </rss>

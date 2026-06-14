@@ -1,44 +1,41 @@
 ---
 title: "Signals & Traces"
-date: 2026-06-13
 slug: "signals"
 menu:
   main:
     weight: 20
 ---
 
->A broad wooden table stands beneath a hanging lantern.
+> You have arrived at Signals & Traces.
 >
->Scattered across its surface are notebooks, photographs, ticket stubs,
->song titles, sketches, observations, and half-finished thoughts.
+> This is where things land first.
 >
->Nothing here appears organized, yet everything seems exactly where it
-belongs.
+> Notes, observations, questions, songs, photographs, conversations, links, and half-finished thoughts gather here while they are still close at hand.
 >
->A small plaque has been nailed to the edge of the table:
+> If you'd like to know what I'm currently reading, watching, listening to, building, or thinking about, you'll likely find it here.
 >
->    Some become stories.
->    Some remain fragments.
+> Some traces become longer field notes. Some remain fragments.
 >
->Recent entries have been left open for curious travelers.
+> The real treasure often lives here.
 
-### Recently Heard
+
+### Now playing
 
 - No Doubt
 - Deadmou5
 
-### Recently Read
+### Now Reading
 
 - The Wicked + The Divine
 
-### Recently Watched
+### Now Watching
 
 - Punky Brewster
 - Masters of the Universe
 - Tales from the Crypt
 - House Party 1-3
 
-### Recently Noticed
+### Now Thinking
 
 - Will-o-the-wisp adventures often end up right where you started, only a little more aware of the landscape...if you turn back in time.
 - Learning best is learning slowly.
