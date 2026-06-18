@@ -3,10 +3,6 @@ draft = false
 title = 'About'
 +++
 
-> You have arrived at Field Notes.
->
-> This place collects Signals & Traces--observations, artifacts, questions, memories, and things that felt worth noticing. Some becoming stories. Some remaining fragments.
-
 ### Signals & Traces
 A notebook for observations before they disappear.
 

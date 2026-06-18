@@ -7,14 +7,9 @@ comments = true
 weight = 40
 +++
 
-> You have arrived at the Guestbook.
->
-> A ledger rests near the entrance.
->
-> Travelers sometimes leave a note before continuing on.
->
-> Notes are written through GitHub Discussions.
-> A free GitHub account is required to sign the ledger.
+Travelers sometimes leave a note before continuing on.
+
+A free GitHub account is required to sign the ledger.
 
 <script src="https://giscus.app/client.js"
         data-repo="awesomespyke/field-notes"

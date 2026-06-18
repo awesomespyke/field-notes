@@ -6,13 +6,74 @@ menu:
     weight: 20
 ---
 
-> You have arrived at the study.
+<div id="signal-receiver" style="
+  min-height: 90px;
+  padding: 1rem;
+  border: 1px solid rgba(255,255,255,.15);
+  border-radius: 10px;
+  font-family: monospace;
+  letter-spacing: .03em;
+  opacity: .9;
+">
+  tuning...
+</div>
 
-## The Notepad
+<script>
+const signals = [
+  "follow your curiosity",
+  "learning best is learning slowly",
+  "the real treasure often lives here",
+  "this is not my life i'm just trying it on",
+  "a black cat named Pumpkin",
+  "the devil likes peanut butter",
+  "ask about the changeling",
+  "will-o-the-wisp adventures often end up right where you started"
+];
 
-- Will-o-the-wisp adventures often end up right where you started, only a little more aware of the landscape...if you turn back in time.
-- Learning best is learning slowly.
+const receiver = document.getElementById("signal-receiver");
+const noise = "░▒▓█#@$%&*+?";
 
+function scrambleText(length) {
+  return Array.from({ length }, () =>
+    noise[Math.floor(Math.random() * noise.length)]
+  ).join("");
+}
+
+function tuneSignal(message) {
+  let step = 0;
+  const maxSteps = 18;
+
+  const interval = setInterval(() => {
+    let output = "";
+
+    for (let i = 0; i < message.length; i++) {
+      const revealChance = step / maxSteps;
+      output += Math.random() < revealChance
+        ? message[i]
+        : noise[Math.floor(Math.random() * noise.length)];
+    }
+
+    receiver.textContent = output;
+    step++;
+
+    if (step > maxSteps) {
+      clearInterval(interval);
+      receiver.textContent = message;
+    }
+  }, 80);
+}
+
+function receiveSignal() {
+  const signal = signals[Math.floor(Math.random() * signals.length)];
+
+  receiver.textContent = scrambleText(signal.length);
+
+  setTimeout(() => tuneSignal(signal), 600);
+}
+
+receiveSignal();
+setInterval(receiveSignal, 10000);
+</script>
 
 <h2>Now Reading</h2>
 
