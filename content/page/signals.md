@@ -20,14 +20,19 @@ menu:
 
 <script>
 const signals = [
-  "follow your curiosity",
-  "learning best is learning slowly",
-  "the real treasure often lives here",
-  "this is not my life i'm just trying it on",
-  "a black cat named Pumpkin",
-  "the devil likes peanut butter",
-  "ask about the changeling",
-  "will-o-the-wisp adventures often end up right where you started"
+  "Follow your curiosity",
+  "Learning best is learning slowly.",
+  "Satanic devices according to grandma: Sunny delight, Dungeons & Dragons, & Pokémon",
+  "I'll try this life on for a while",
+  "Eternal Parking Lot.",
+  "How close do I keep the devil that salt over my shoulder can hit him?",
+  "A changeling was carried into the library today...",
+  "Is it a gloryhole or a hagstone?",
+  "Dying Dreams.",
+  "The Spell-maker.",
+  "The Ghost Hand & Other Fairy Tales",
+  "Excuse me, my tits are up here.",
+  "I hope I look as cute at my own funeral...",
 ];
 
 const receiver = document.getElementById("signal-receiver");
@@ -81,6 +86,7 @@ setInterval(receiveSignal, 10000);
   <img src="/Shelf/Now Reading/wicked+divine.jpg">
   <img src="/Shelf/Now Reading/Unknown.jpg">
   <img src="/Shelf/Now Reading/TWTD13_900px.jpg">
+  <img src="/Shelf/Now Reading/wordsofagoatprincess.jpg">
 
 </div>
 
@@ -89,18 +95,25 @@ setInterval(receiveSignal, 10000);
 
 <div class="artifact-stack album-stack" onclick="rotateStack(this)">
   <img src="/Shelf/Now Playing/3 ft.jpeg">
-  <img src="/Shelf/Now Playing/hate.jpeg">
+  <img src="/Shelf/Now Playing/hatethatimadeyouloveme.jpg">
+  <img src="/Shelf/Now Playing/biggerthanallofus.jpg">
+  <img src="/Shelf/Now Playing/locket.jpg">
   <img src="/Shelf/Now Playing/mothership.jpg">
+
 </div>
 
 
 <h2>Now Watching</h2>
 
 <div class="artifact-stack movie-stack" onclick="rotateStack(this)">
-  <img src="/Shelf/Now Watching/house party.jpg">
-  <img src="/Shelf/Now Watching/baby oopsie.jpg">
-  <img src="/Shelf/Now Watching/punky brewster.jpg">
-  <img src="/Shelf/Now Watching/he man.jpeg">
+  <img src="/Shelf/Now Watching/mastersoftheuniverse.jpg">
+  <img src="/Shelf/Now Watching/talesfromthecrypt.jpg">
+  <img src="/Shelf/Now Watching/youmightbethekiller.jpg">
+  <img src="/Shelf/Now Watching/shecamefromthewoods.jpg">
+  <img src="/Shelf/Now Watching/owlhouse.jpg">
+  <img src="/Shelf/Now Watching/hokum.jpg">
+  <img src="/Shelf/Now Watching/backrooms.jpg">
+
 </div>
 
 <style>
@@ -108,7 +121,7 @@ setInterval(receiveSignal, 10000);
   position: relative;
   height: 360px;
   width: 230px;
-  margin: 1rem 0 2rem 1rem;
+  margin: 1rem 0 4rem 1rem;
   cursor: pointer;
 }
 
