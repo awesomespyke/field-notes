@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Field Notes</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>http://localhost:57446/tags/</link>
         <description>Recent content in Tags on Field Notes</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sat, 13 Jun 2026 23:48:51 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 13 Jun 2026 23:48:51 -0500</lastBuildDate><atom:link href="http://localhost:57446/tags/index.xml" rel="self" type="application/rss+xml" /><item>
             <title>Electric Daisy Carnival</title>
-            <link>http://localhost:1313/tags/electric-daisy-carnival/</link>
+            <link>http://localhost:57446/tags/electric-daisy-carnival/</link>
             <pubDate>Sat, 13 Jun 2026 23:48:51 -0500</pubDate>
-            <guid>http://localhost:1313/tags/electric-daisy-carnival/</guid>
+            <guid>http://localhost:57446/tags/electric-daisy-carnival/</guid>
             <description></description>
         </item><item>
             <title>Las Vegas</title>
-            <link>http://localhost:1313/tags/las-vegas/</link>
+            <link>http://localhost:57446/tags/las-vegas/</link>
             <pubDate>Sat, 13 Jun 2026 23:48:51 -0500</pubDate>
-            <guid>http://localhost:1313/tags/las-vegas/</guid>
+            <guid>http://localhost:57446/tags/las-vegas/</guid>
             <description></description>
         </item><item>
             <title>Travel-Log</title>
-            <link>http://localhost:1313/tags/travel-log/</link>
+            <link>http://localhost:57446/tags/travel-log/</link>
             <pubDate>Sat, 13 Jun 2026 23:48:51 -0500</pubDate>
-            <guid>http://localhost:1313/tags/travel-log/</guid>
+            <guid>http://localhost:57446/tags/travel-log/</guid>
             <description></description>
         </item><item>
             <title>Field Note</title>
-            <link>http://localhost:1313/tags/field-note/</link>
+            <link>http://localhost:57446/tags/field-note/</link>
             <pubDate>Tue, 02 Jun 2026 21:37:38 -0500</pubDate>
-            <guid>http://localhost:1313/tags/field-note/</guid>
+            <guid>http://localhost:57446/tags/field-note/</guid>
             <description></description>
         </item><item>
             <title>Hag Stone</title>
-            <link>http://localhost:1313/tags/hag-stone/</link>
+            <link>http://localhost:57446/tags/hag-stone/</link>
             <pubDate>Tue, 02 Jun 2026 21:37:38 -0500</pubDate>
-            <guid>http://localhost:1313/tags/hag-stone/</guid>
+            <guid>http://localhost:57446/tags/hag-stone/</guid>
             <description></description>
         </item><item>
             <title>Home</title>
-            <link>http://localhost:1313/tags/home/</link>
+            <link>http://localhost:57446/tags/home/</link>
             <pubDate>Tue, 02 Jun 2026 21:37:38 -0500</pubDate>
-            <guid>http://localhost:1313/tags/home/</guid>
+            <guid>http://localhost:57446/tags/home/</guid>
             <description></description>
         </item><item>
             <title>Project-Log</title>
-            <link>http://localhost:1313/tags/project-log/</link>
+            <link>http://localhost:57446/tags/project-log/</link>
             <pubDate>Tue, 02 Jun 2026 21:37:38 -0500</pubDate>
-            <guid>http://localhost:1313/tags/project-log/</guid>
+            <guid>http://localhost:57446/tags/project-log/</guid>
             <description></description>
         </item><item>
             <title>Technology</title>
-            <link>http://localhost:1313/tags/technology/</link>
+            <link>http://localhost:57446/tags/technology/</link>
             <pubDate>Tue, 02 Jun 2026 21:37:38 -0500</pubDate>
-            <guid>http://localhost:1313/tags/technology/</guid>
+            <guid>http://localhost:57446/tags/technology/</guid>
             <description></description>
         </item><item>
             <title>Sound-Note</title>
-            <link>http://localhost:1313/tags/sound-note/</link>
+            <link>http://localhost:57446/tags/sound-note/</link>
             <pubDate>Sun, 31 May 2026 08:16:10 -0500</pubDate>
-            <guid>http://localhost:1313/tags/sound-note/</guid>
+            <guid>http://localhost:57446/tags/sound-note/</guid>
             <description></description>
         </item><item>
             <title>Light</title>
-            <link>http://localhost:1313/tags/light/</link>
+            <link>http://localhost:57446/tags/light/</link>
             <pubDate>Fri, 29 May 2026 19:26:31 -0500</pubDate>
-            <guid>http://localhost:1313/tags/light/</guid>
+            <guid>http://localhost:57446/tags/light/</guid>
             <description></description>
         </item></channel>
 </rss>
