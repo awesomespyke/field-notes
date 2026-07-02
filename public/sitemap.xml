@@ -3,69 +3,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:57446/tags/electric-daisy-carnival/</loc>
+    <loc>http://localhost:1313/tags/communication/</loc>
+    <lastmod>2026-06-25T20:02:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-06-25T20:02:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/frame/</loc>
+    <lastmod>2026-06-25T20:02:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/home/</loc>
+    <lastmod>2026-06-25T20:02:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2026-06-25T20:02:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-06-25T20:02:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/technology/</loc>
+    <lastmod>2026-06-25T20:02:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/post/sight/</loc>
+    <lastmod>2026-06-25T20:02:12-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/electric-daisy-carnival/</loc>
     <lastmod>2026-06-13T23:48:51-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:57446/</loc>
+    <loc>http://localhost:1313/tags/las-vegas/</loc>
     <lastmod>2026-06-13T23:48:51-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:57446/tags/las-vegas/</loc>
+    <loc>http://localhost:1313/post/edc26/</loc>
     <lastmod>2026-06-13T23:48:51-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:57446/post/</loc>
+    <loc>http://localhost:1313/tags/travel-log/</loc>
     <lastmod>2026-06-13T23:48:51-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:57446/post/edc26/</loc>
-    <lastmod>2026-06-13T23:48:51-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:57446/tags/</loc>
-    <lastmod>2026-06-13T23:48:51-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:57446/tags/travel-log/</loc>
-    <lastmod>2026-06-13T23:48:51-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:57446/tags/field-note/</loc>
+    <loc>http://localhost:1313/tags/field-note/</loc>
     <lastmod>2026-06-02T21:37:38-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:57446/tags/hag-stone/</loc>
+    <loc>http://localhost:1313/tags/hag-stone/</loc>
     <lastmod>2026-06-02T21:37:38-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:57446/tags/home/</loc>
+    <loc>http://localhost:1313/tags/project-log/</loc>
     <lastmod>2026-06-02T21:37:38-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:57446/tags/project-log/</loc>
+    <loc>http://localhost:1313/post/terminal-ritual/</loc>
     <lastmod>2026-06-02T21:37:38-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:57446/tags/technology/</loc>
-    <lastmod>2026-06-02T21:37:38-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:57446/post/terminal-ritual/</loc>
-    <lastmod>2026-06-02T21:37:38-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:57446/tags/sound-note/</loc>
+    <loc>http://localhost:1313/tags/sound-note/</loc>
     <lastmod>2026-05-31T08:16:10-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:57446/post/sunday-morning/</loc>
+    <loc>http://localhost:1313/post/sunday-morning/</loc>
     <lastmod>2026-05-31T08:16:10-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:57446/post/first-sighting/</loc>
+    <loc>http://localhost:1313/post/first-sighting/</loc>
     <lastmod>2026-05-29T19:26:31-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:57446/tags/light/</loc>
+    <loc>http://localhost:1313/tags/light/</loc>
     <lastmod>2026-05-29T19:26:31-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:57446/page/about/</loc>
+    <loc>http://localhost:1313/page/about/</loc>
   </url><url>
-    <loc>http://localhost:57446/page/archives/</loc>
+    <loc>http://localhost:1313/page/archives/</loc>
   </url><url>
-    <loc>http://localhost:57446/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:57446/page/guestbook/</loc>
+    <loc>http://localhost:1313/page/guestbook/</loc>
   </url><url>
-    <loc>http://localhost:57446/page/library/</loc>
+    <loc>http://localhost:1313/page/library/</loc>
   </url><url>
-    <loc>http://localhost:57446/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
   </url><url>
-    <loc>http://localhost:57446/page/study/</loc>
+    <loc>http://localhost:1313/page/study/</loc>
   </url>
 </urlset>
