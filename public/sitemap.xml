@@ -3,10 +3,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/communication/</loc>
-    <lastmod>2026-06-25T20:02:12-05:00</lastmod>
+    <loc>http://localhost:1313/page/listening-room/</loc>
+    <lastmod>2026-07-03T08:02:49-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-07-03T08:02:49-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/page/</loc>
+    <lastmod>2026-07-03T08:02:49-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/communication/</loc>
     <lastmod>2026-06-25T20:02:12-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/frame/</loc>
@@ -72,8 +78,6 @@
     <loc>http://localhost:1313/page/guestbook/</loc>
   </url><url>
     <loc>http://localhost:1313/page/library/</loc>
-  </url><url>
-    <loc>http://localhost:1313/page/</loc>
   </url><url>
     <loc>http://localhost:1313/page/study/</loc>
   </url>

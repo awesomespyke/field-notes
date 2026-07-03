@@ -3,21 +3,23 @@ draft = false
 title = 'About'
 +++
 
-### Signals & Traces
-A notebook for observations before they disappear.
+**Field Notes**
 
-### The Library
-A portal to my collection of books & comics. Contact the librarian for a library card.
+This site is a digital garden of **Signals**-those things I notice-and-**Traces**-the observations I leave. 
 
-### Archives
+**The Library**
+
+A portal to my collection of books & comics. Reach out for a library card.
+
+**Archives**
+
 Older paths through the notebook.
 
-### Tags
+**Tags**
+
 Trail markers connecting related ideas across time. 
 There is no prescribed route through this place.
 
-### Guestbook
-A space for notes left by visiting travelers. 
-Notes are written through GitHub Discussions. A free GitHub account is required to sign the ledger.
+**Guestbook**
 
->Follow your curiosity.
+A space to leave me notes. Notes are written through GitHub Discussions. A free GitHub account is required to sign the ledger.

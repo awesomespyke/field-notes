@@ -4,12 +4,19 @@
         <link>http://localhost:1313/page/</link>
         <description>Recent content in Pages on Field Notes</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en-us</language>
+        <lastBuildDate>Fri, 03 Jul 2026 08:02:49 -0500</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Listening Room</title>
+            <link>http://localhost:1313/page/listening-room/</link>
+            <pubDate>Fri, 03 Jul 2026 08:02:49 -0500</pubDate>
+            <guid>http://localhost:1313/page/listening-room/</guid>
+            <description>&lt;p&gt;You have arrived at the Listening Room.&lt;/p&gt;&#xA;&lt;p&gt;Music has a funny way of inhabiting a place.&lt;/p&gt;&#xA;&lt;p&gt;Some albums become companions for a week. Others return every few years like old friends. This room is where I leave them out.&lt;/p&gt;&#xA;&lt;p&gt;Take your time. Flip through the rack. You might leave with a new favorite.&lt;/p&gt;&#xA;</description>
+        </item><item>
             <title>About</title>
             <link>http://localhost:1313/page/about/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             <guid>http://localhost:1313/page/about/</guid>
-            <description>&lt;h3 id=&#34;signals--traces&#34;&gt;Signals &amp;amp; Traces&#xA;&lt;/h3&gt;&lt;p&gt;A notebook for observations before they disappear.&lt;/p&gt;&#xA;&lt;h3 id=&#34;the-library&#34;&gt;The Library&#xA;&lt;/h3&gt;&lt;p&gt;A portal to my collection of books &amp;amp; comics. Contact the librarian for a library card.&lt;/p&gt;&#xA;&lt;h3 id=&#34;archives&#34;&gt;Archives&#xA;&lt;/h3&gt;&lt;p&gt;Older paths through the notebook.&lt;/p&gt;&#xA;&lt;h3 id=&#34;tags&#34;&gt;Tags&#xA;&lt;/h3&gt;&lt;p&gt;Trail markers connecting related ideas across time.&#xA;There is no prescribed route through this place.&lt;/p&gt;&#xA;&lt;h3 id=&#34;guestbook&#34;&gt;Guestbook&#xA;&lt;/h3&gt;&lt;p&gt;A space for notes left by visiting travelers.&#xA;Notes are written through GitHub Discussions. A free GitHub account is required to sign the ledger.&lt;/p&gt;&#xA;&#xA;    &lt;blockquote&gt;&#xA;        &lt;p&gt;Follow your curiosity.&lt;/p&gt;&#xA;&#xA;    &lt;/blockquote&gt;&#xA;</description>
+            <description>&lt;p&gt;&lt;strong&gt;Field Notes&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;This site is a digital garden of &lt;strong&gt;Signals&lt;/strong&gt;-those things I notice-and-&lt;strong&gt;Traces&lt;/strong&gt;-the observations I leave.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Library&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A portal to my collection of books &amp;amp; comics. Reach out for a library card.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Archives&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Older paths through the notebook.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tags&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;Trail markers connecting related ideas across time.&#xA;There is no prescribed route through this place.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Guestbook&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;A space to leave me notes. Notes are written through GitHub Discussions. A free GitHub account is required to sign the ledger.&lt;/p&gt;&#xA;</description>
         </item><item>
             <title>Archives</title>
             <link>http://localhost:1313/page/archives/</link>
