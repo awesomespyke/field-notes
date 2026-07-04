@@ -34,7 +34,7 @@ I can share access to my Plex music library if you'd like to explore the albums 
 
 *Show me what you see.*
 
-[→ Learn about the Frame](https://spyke.space/post/frame/)
+[→ Learn about the Frame](/post/the-frame/)
 
 A free GitHub account is required to sign the guestbook. Say Hello.
 
