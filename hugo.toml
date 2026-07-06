@@ -8,21 +8,14 @@ theme= 'hugo-theme-stack'
       unsafe = true
 
 [[menu.main]]
-name = "About"
-url = "/page/about/"
-weight = 20
 
 [params.sidebar]
 emoji = "💎"
-subtitle = "Signals and traces gathered along the way."
+subtitle = "A place to wander."
 avatar = "/img/avatar.png"
 
 [params.widgets]
-homepage = [
-    { type = "archives", params = { limit = 12 } },
-    { type = "tag-cloud", params = { limit = 25 } },
-]
-
+homepage = []
 page = [{ type = "toc" }]
 
 [params.comments]

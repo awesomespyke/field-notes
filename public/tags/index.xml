@@ -5,7 +5,19 @@
         <description>Recent content in Tags on Field Notes</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Thu, 25 Jun 2026 20:02:12 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 03 Jul 2026 20:44:48 -0500</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+            <title>Library</title>
+            <link>http://localhost:1313/tags/library/</link>
+            <pubDate>Fri, 03 Jul 2026 20:44:48 -0500</pubDate>
+            <guid>http://localhost:1313/tags/library/</guid>
+            <description></description>
+        </item><item>
+            <title>Philosophy</title>
+            <link>http://localhost:1313/tags/philosophy/</link>
+            <pubDate>Fri, 03 Jul 2026 20:44:48 -0500</pubDate>
+            <guid>http://localhost:1313/tags/philosophy/</guid>
+            <description></description>
+        </item><item>
             <title>Communication</title>
             <link>http://localhost:1313/tags/communication/</link>
             <pubDate>Thu, 25 Jun 2026 20:02:12 -0500</pubDate>
