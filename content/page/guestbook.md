@@ -1,10 +1,8 @@
 +++
 title = "The Front Desk"
-slug = "guestbook"
+url = "/guestbook/"
+aliases = ["/page/guestbook/"]
 comments = true
-
-[menu.main]
-weight = 50
 +++
 
 Welcome to Field Notes.

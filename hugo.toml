@@ -7,7 +7,22 @@ theme= 'hugo-theme-stack'
     [markup.goldmark.renderer]
       unsafe = true
 
+
+
 [[menu.main]]
+name = "Blog"
+url = "/blog/"
+weight = 20
+
+[[menu.main]]
+name = "Music"
+url = "/music/"
+weight = 30
+
+[[menu.main]]
+name = "Guestbook"
+url = "/guestbook/"
+weight = 40
 
 [params.sidebar]
 emoji = "💎"
@@ -16,7 +31,11 @@ avatar = "/img/avatar.png"
 
 [params.widgets]
 homepage = []
-page = [{ type = "toc" }]
+
+page = [
+  { type = "toc" },
+  { type = "tag-cloud" }
+]
 
 [params.comments]
 enabled = false
