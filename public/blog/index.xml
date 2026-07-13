@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Field Notes</title>
+        <title>Field Notes on Spyke Space</title>
         <link>http://localhost:50663/blog/</link>
-        <description>Recent content on Field Notes</description>
+        <description>Recent content in Field Notes on Spyke Space</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Fri, 03 Jul 2026 20:44:48 -0500</lastBuildDate><atom:link href="http://localhost:50663/blog/index.xml" rel="self" type="application/rss+xml" /><item>
