@@ -17,6 +17,8 @@
         {{ end }}
     </article>
 
+    {{ partial "currently-listening.html" . }}
+
     {{ $musicPosts := where .Site.RegularPages "Params.tags" "intersect" (slice "music") }}
 
     {{ with $musicPosts }}

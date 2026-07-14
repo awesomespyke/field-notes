@@ -1,0 +1,18 @@
+{{- $listening := index site.Data "currently-listening" -}}
+
+<section class="currently-listening">
+    <h2>Keeping Me Company</h2>
+
+    <div class="album-shelf">
+        {{ range $item := $listening.items }}
+            <div class="album-card">
+                {{ with $item.cover }}
+                    <img src="{{ . }}" alt="{{ $item.title }} cover">
+                {{ end }}
+
+                <strong>{{ $item.title }}</strong><br>
+                <small>{{ $item.artist }}</small>
+            </div>
+        {{ end }}
+    </div>
+</section>
