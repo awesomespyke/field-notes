@@ -20,22 +20,19 @@ If you'd like access to my personal library, leave me a note below.
 
 ---
 
-## Listening Pass
-
-*Wander the Listening Room with me.*
-
-I can share access to my Plex music library if you'd like to explore the albums keeping me company.
-
----
-
 ## The Frame
 
 *Show me what you see.*
 
-[→ Learn about the Frame](/post/the-frame/)
+[→ Learn about the Frame](/blog/the-frame/)
 
-A free GitHub account is required to sign the guestbook. Say Hello.
+---
 
+## Say hi
+
+Leave a note, ask a question, or tell me what brought you here.
+
+A free GitHub account is required to sign the guestbook.
 <script src="https://giscus.app/client.js"
         data-repo="awesomespyke/field-notes"
         data-repo-id="R_kgDOSuaJxA"

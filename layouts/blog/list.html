@@ -17,20 +17,17 @@
         {{ end }}
     </article>
 
-    {{ partial "currently-listening.html" . }}
+    <section class="article-list">
+        <h2>Latest Notes</h2>
 
-    {{ $musicPosts := where .Site.RegularPages "Params.tags" "intersect" (slice "music") }}
-
-    {{ with $musicPosts }}
-        <section class="article-list--compact">
-            {{ range .ByDate.Reverse }}
-                {{ partial "article-list/compact" . }}
-            {{ end }}
-        </section>
-    {{ end }}
+        {{ range .Pages.ByDate.Reverse }}
+            {{ partial "article-list/default" . }}
+        {{ end }}
+    </section>
 
     {{ partialCached "footer/footer" . }}
 {{ end }}
 
 {{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
 {{ end }}
