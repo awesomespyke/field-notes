@@ -1,11 +1,11 @@
 +++
-title = "Field Notes"
+title = "Spyke Space"
 description = "A place to wander."
 comments = false
 +++
 
-> Welcome to Field Notes.
+> Welcome to Spyke Space.
 >
 > This place is still revealing itself.
 >
-> Wander where your curiosity leads.
+> Wonder where your curiosity leads.
