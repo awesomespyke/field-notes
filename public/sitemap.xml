@@ -3,23 +3,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-07-15T20:45:00-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-15T20:45:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-15T20:45:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/friendship/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/categories/natural-philosophy/</loc>
+    <lastmod>2026-07-15T20:45:00-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/music/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/shared-record-library/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/tags/observation/</loc>
+    <lastmod>2026-07-15T20:45:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-07-14T00:00:00+00:00</lastmod>
+    <lastmod>2026-07-15T20:45:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/the-language-of-music/</loc>
+    <lastmod>2026-07-15T20:45:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/invitation/</loc>
+    <lastmod>2026-07-15T19:28:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/library-science/</loc>
+    <lastmod>2026-07-15T19:28:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/making-room/</loc>
+    <lastmod>2026-07-15T19:28:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/service-design/</loc>
+    <lastmod>2026-07-15T19:28:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stewardship/</loc>
+    <lastmod>2026-07-15T19:28:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/outreach-starts-inside/</loc>
+    <lastmod>2026-07-15T18:44:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reflection/</loc>
+    <lastmod>2026-07-15T18:44:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sensemaking/</loc>
+    <lastmod>2026-07-15T18:44:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/writing/</loc>
+    <lastmod>2026-07-15T18:44:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/water-bubbles/</loc>
+    <lastmod>2026-07-15T18:26:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/tending-subjects/</loc>
+    <lastmod>2026-07-15T18:10:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/library/</loc>
     <lastmod>2026-07-03T20:44:48-05:00</lastmod>
@@ -85,8 +121,6 @@
     <lastmod>2026-05-29T19:26:31-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/page/archives/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/page/</loc>
   </url><url>

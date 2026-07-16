@@ -10,7 +10,7 @@ theme= 'hugo-theme-stack'
 
 
 [[menu.main]]
-name = "Blog"
+name = "Field Notes"
 url = "/blog/"
 weight = 20
 
@@ -26,7 +26,7 @@ weight = 40
 
 [params.sidebar]
 emoji = "💎"
-subtitle = "A place for signals & traces."
+subtitle = "A place to wonder."
 avatar = "/img/avatar.png"
 
 [params.widgets]
