@@ -15,6 +15,11 @@ url = "/blog/"
 weight = 20
 
 [[menu.main]]
+name = "About"
+url = "/page/about/"
+weight = 25
+
+[[menu.main]]
 name = "Music"
 url = "/music/"
 weight = 30

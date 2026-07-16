@@ -1,15 +1,17 @@
 +++
-date = '2026-05-29T19:26:31-05:00'
+title = "Perched at the Dais"
+date = 2026-05-16T21:30:00-05:00
 draft = false
-title = 'First Sighting'
-aliases = ["/post/first-sighting/"]
 
-tags = [
-"Home",
-"Light", 
-"Hag stone"  
+categories = [
+    "Natural Philosophy"
 ]
 
+tags = [
+    "Imagination"
+]
+
+comments = false
 +++
 
 
